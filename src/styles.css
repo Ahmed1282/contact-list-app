@@ -1,0 +1,12 @@
+/* styles.css */
+.contact-card {
+    border: 1px solid #ccc; /* Border for the user box */
+    padding: 20px; /* Padding inside the user box */
+    margin: 10px; /* Margin between user boxes */
+    display: flex; /* Use flexbox for layout */
+    align-items: center; /* Center items vertically */
+  }
+  .contact-card .avatar {
+    margin-right: 20px; /* Margin between avatar and contact info */
+  }
+  
